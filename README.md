@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @plaplata
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning C++
 - 💞️ I’m working on Web Development using Mendix
 - 📫 How to reach me ... Look me up!
